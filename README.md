@@ -2,6 +2,7 @@
 
 ### Essa e uma api com documentação completa, construida com o objetivo de cadastrar vagas de emprego com descrições, e registro de aplicação de usuarios as vagas.
 
+
 ## Vagas e Candidaturas API
 
 ### POST /opportunities
